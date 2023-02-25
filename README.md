@@ -2,7 +2,7 @@
 how to make a http request.
 step 1: Create a new XMLHttpRequest object
 
-To make an GTTP request in javascript, you first need to create a new instance of the XMLHttpRequest object. You can do this using the following code:
+To make an HTTP request in javascript, you first need to create a new instance of the XMLHttpRequest object. You can do this using the following code:
 
 javascript
 copy code
